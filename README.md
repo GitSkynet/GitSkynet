@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+⚡ Lover of the world of programming, building my first projects in web development and learning by doing.
+I like to learn continuously, give shape to my ideas and make them come true.
+
+Skills:
+ReactJS, JavaScript, NodeJS, Express, MongoDB, MySQL, C
 <!--
 **GitSkynet/GitSkynet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
