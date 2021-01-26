@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-⚡ Lover of the world of programming, building my first projects in web development and learning by doing.
+⚡ 
+I love programming, creating websites, applications, programs ... I am in love with Arduino and raspberry, android, applications, web development ... 
+I love the DIY world and I have several projects made with raspberry; also, I am always learning something new or improving what is known!
+A year ago I decided to redirect my professional career and dedicate myself to the development of web applications and cross-platform applications.
 I like to learn continuously, give shape to my ideas and make them come true.
 
-🌱 I’m currently learning JavaScript, ReactJS, and Stack MERN
+⚡⚡⚡ I’m just graduated from IronHack Barcelona as a Full Stack Web Developer
+JavaScript, ReactJS, and Stack MERN
 
 Skills:
 ReactJS, JavaScript, NodeJS, Express, MongoDB, MySQL, C
