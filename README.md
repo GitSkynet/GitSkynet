@@ -10,18 +10,26 @@ I like to learn continuously, give shape to my ideas and make them come true.
 
 ⚡ I’m just graduated from IronHack Barcelona as a Full Stack Web Developer
 JavaScript, ReactJS, and Stack MERN
+
 ⚡I am currently learning the Double Superior Degree in Web Application Development and Multiplatform Application Development.
+
 My idea is that when I finish them, and if time and life allows me, realize a degree in Computer Engineering
 
 - 👯 I’m looking to collaborate on ...
+
 ⚡Currently, as a recent graduate of the IronHack bootcamp, I am looking for my first job as a web developer.
 
+
 - 📫 How to reach me: ...
+
 Mail: curtidodev@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/carlos-curtido/
 
 Technologies I work:
+
 JavaScript, ReactJS, Stack MERN, mongoDB, Express, nodeJS, HTML, CSS, Bootstrap
+
 <!--
 **GitSkynet/GitSkynet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
