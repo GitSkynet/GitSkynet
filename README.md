@@ -1,35 +1,38 @@
-### Hi there 👋
+### Hi there! 👋
 
 ⚡ 
-I love programming, creating websites, applications, programs ... I am in love with Arduino and raspberry, android, applications, web development ... 
-I love the DIY world and I have several projects made with raspberry; also, I am always learning something new or improving what is known!
-A year ago I decided to redirect my professional career and dedicate myself to the development of web applications and cross-platform applications.
-I like to learn continuously, give shape to my ideas and make them come true.
+I am a seasoned programmer with a rich background spanning four years in the realms of .NET and C#. My proficiency encompasses a wide array of technologies, including Entity Framework, SQL Server, LINQ, and Oracle Database. My expertise extends to front-end technologies such as React, Razor, and various architectural patterns, including MVC, MVVM, Clean Architecture, and adherence to SOLID principles.
+
+Throughout my career, I have consistently demonstrated a commitment to delivering high-quality solutions and leveraging my comprehensive understanding of database management, data querying, and software architecture. My adaptability and in-depth knowledge make me well-equipped to tackle complex challenges and contribute effectively to any development project.
+
+I am enthusiastic about exploring new opportunities where I can leverage my skills to create robust and scalable solutions. If you are seeking a professional with a proven track record in .NET development and a passion for excellence, I would welcome the opportunity to discuss how my experience aligns with your needs.
 
 - 🌱 I’m currently learning ...
 
-⚡ I’m just graduated from IronHack Barcelona as a Full Stack Web Developer
-JavaScript, ReactJS, and Stack MERN
+⚡ I’m Full Stack Web developer on .NET & C#
 
 ⚡I am currently learning the Double Superior Degree in Web Application Development and Multiplatform Application Development.
 
-My idea is that when I finish them, and if time and life allows me, realize a degree in Computer Engineering
-
 - 👯 I’m looking to collaborate on ...
 
-⚡Currently, as a recent graduate of the IronHack bootcamp, I am looking for my first job as a web developer.
+⚡I am actively seeking new professional opportunities as a .NET developer. With a solid foundation built over four years of experience, I am well-versed in utilizing technologies such as C#, Entity Framework, SQL Server, LINQ, and various architectural patterns.
+
+My goal is to contribute my skills and expertise to a dynamic team, bringing a commitment to excellence and a passion for crafting robust and scalable solutions in the .NET ecosystem. I look forward to exploring potential collaborations that align with my passion and proficiency in software development.
 
 
 - 📫 How to reach me: ...
 
-Mail: curtidodev@gmail.com
+Mail: info@carloscurtido.es
 
 LinkedIn: https://www.linkedin.com/in/carlos-curtido/
 
 Technologies I work:
 
-JavaScript, ReactJS, Stack MERN, mongoDB, Express, nodeJS, HTML, CSS, Bootstrap
+.NET, C#, Entity Framework, LinQ, SQL Server, Oracle Database, Razor, MVC-MVVM, SOLID principles, Clean Architecture, Testing (Moq),
+JavaScript, ReactJS, Stack MERN, mongoDB, Express, nodeJS, HTML, CSS, Bootstrap, Wordpress, Drupal, PHP, bash scripting
 
+- ⚡ Fun fact:
+Es triste amar sin ser amado, pero mas triste es que se te cierre el Word, sin haber guardado 
 <!--
 **GitSkynet/GitSkynet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
