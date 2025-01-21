@@ -1,25 +1,14 @@
 ### Hi there! 👋
 
-⚡ 
-I am a seasoned programmer with a rich background spanning four years in the realms of .NET and C#. My proficiency encompasses a wide array of technologies, including Entity Framework, SQL Server, LINQ, and Oracle Database. My expertise extends to front-end technologies such as React, Razor, and various architectural patterns, including MVC, MVVM, Clean Architecture, and adherence to SOLID principles.
+I am a skilled .NET developer with 5 years of experience in both backend and frontend development. Over the last two years, I have specialized in backend development using .NET with Clean Architecture, Entity Framework, and database technologies such as SQL Server and Oracle Database. I am well-versed in developing scalable, robust solutions while adhering to SOLID principles and best practices.
 
-Throughout my career, I have consistently demonstrated a commitment to delivering high-quality solutions and leveraging my comprehensive understanding of database management, data querying, and software architecture. My adaptability and in-depth knowledge make me well-equipped to tackle complex challenges and contribute effectively to any development project.
+My expertise also extends to front-end technologies, including ReactJS and Razor, as well as various architectural patterns like MVC and MVVM. I am committed to writing high-quality code and delivering solutions that meet business needs and user requirements.
 
-I am enthusiastic about exploring new opportunities where I can leverage my skills to create robust and scalable solutions. If you are seeking a professional with a proven track record in .NET development and a passion for excellence, I would welcome the opportunity to discuss how my experience aligns with your needs.
+I am currently expanding my knowledge by pursuing a Double Superior Degree in Web Application Development and Multiplatform Application Development, further enhancing my skills in the ever-evolving tech landscape.
 
-- 🌱 I’m currently learning ...
+I am actively seeking new professional opportunities where I can contribute to the development of impactful software solutions, leveraging my experience and passion for .NET development. If you're looking for a dedicated and experienced developer, I would be happy to discuss how I can bring value to your team.
 
-⚡ I’m Full Stack Web developer on .NET & C#
-
-⚡I am currently learning the Double Superior Degree in Web Application Development and Multiplatform Application Development.
-
-- 👯 I’m looking to collaborate on ...
-
-⚡I am actively seeking new professional opportunities as a .NET developer. With a solid foundation built over four years of experience, I am well-versed in utilizing technologies such as C#, Entity Framework, SQL Server, LINQ, and various architectural patterns.
-
-My goal is to contribute my skills and expertise to a dynamic team, bringing a commitment to excellence and a passion for crafting robust and scalable solutions in the .NET ecosystem. I look forward to exploring potential collaborations that align with my passion and proficiency in software development.
-
-
+Technologies I work with: .NET, C#, Entity Framework, LINQ, SQL Server, Oracle Database, Razor, MVC, MVVM, SOLID principles, Clean Architecture, Testing (Moq), JavaScript, ReactJS, MERN stack (MongoDB, Express, NodeJS), HTML, CSS, Bootstrap, WordPress, Drupal, PHP, Bash scripting.
 - 📫 How to reach me: ...
 
 Mail: info@carloscurtido.es
