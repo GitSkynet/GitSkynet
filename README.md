@@ -1,18 +1,19 @@
 ### Hi there! 👋
 
-I am a skilled .NET developer with 5 years of experience in both backend and frontend development. Over the last two years, I have specialized in backend development using .NET with Clean Architecture, Entity Framework, and database technologies such as SQL Server and Oracle Database. I am well-versed in developing scalable, robust solutions while adhering to SOLID principles and best practices.
+I am a professional .NET developer with 5 years of experience in backend and frontend development. Over the last two years, I have specialized in backend development using .NET, Clean Architecture, Entity Framework, SQL Server, and Oracle Database.
 
-My expertise also extends to front-end technologies, including ReactJS and Razor, as well as various architectural patterns like MVC and MVVM. I am committed to writing high-quality code and delivering solutions that meet business needs and user requirements.
+On the frontend side, I work with ReactJS, MVC, and MVVM patterns, as well as JavaScript and TypeScript. My experience includes creating dynamic and responsive web applications, leveraging Razor templates to deliver efficient and user-friendly interfaces.
 
-I am currently expanding my knowledge by pursuing a Double Superior Degree in Web Application Development and Multiplatform Application Development, further enhancing my skills in the ever-evolving tech landscape.
+Currently, I work in the logistics sector, developing automation systems for order fulfillment factories. My role focuses on optimizing processes, designing scalable architectures, and implementing solutions that improve operational efficiency.
 
-I am actively seeking new professional opportunities where I can contribute to the development of impactful software solutions, leveraging my experience and passion for .NET development. If you're looking for a dedicated and experienced developer, I would be happy to discuss how I can bring value to your team.
+In addition to my professional experience, I am constantly enhancing my skills through online courses and personal projects. I have a strong command of Ubuntu Server, including Docker setups, server interconnections, VPN creation, and home server deployment. I am also exploring the world of IoT through Arduino projects, continuously expanding my technical expertise.
 
-Technologies I work with: .NET, C#, Entity Framework, LINQ, SQL Server, Oracle Database, Razor, MVC, MVVM, SOLID principles, Clean Architecture, Testing (Moq), JavaScript, ReactJS, MERN stack (MongoDB, Express, NodeJS), HTML, CSS, Bootstrap, WordPress, Drupal, PHP, Bash scripting.
+Technologies I work with:
+.NET, C#, Clean Architecture, Entity Framework, LINQ, SQL Server, Oracle Database, ReactJS, MVC, MVVM, Razor, JavaScript, TypeScript, Docker, Ubuntu Server, VPN setup, IoT (Arduino), HTML, CSS, Bootstrap.
+
+I am passionate about crafting high-quality software solutions and staying updated with the latest advancements in technology. With a proven track record of delivering robust and scalable systems, I thrive in dynamic environments where I can make a meaningful impact.
+
 - 📫 How to reach me: ...
-
-Mail: info@carloscurtido.es
-
 LinkedIn: https://www.linkedin.com/in/carlos-curtido/
 
 Technologies I work:
@@ -20,8 +21,6 @@ Technologies I work:
 .NET, C#, Entity Framework, LinQ, SQL Server, Oracle Database, Razor, MVC-MVVM, SOLID principles, Clean Architecture, Testing (Moq),
 JavaScript, ReactJS, Stack MERN, mongoDB, Express, nodeJS, HTML, CSS, Bootstrap, Wordpress, Drupal, PHP, bash scripting
 
-- ⚡ Fun fact:
-Es triste amar sin ser amado, pero mas triste es que se te cierre el Word, sin haber guardado 
 <!--
 **GitSkynet/GitSkynet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
